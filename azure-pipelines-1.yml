@@ -1,5 +1,5 @@
 trigger:
-- gcp
+- azure
 
 variables:
   var1: "Raham"
